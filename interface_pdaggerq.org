@@ -3,7 +3,8 @@ import pdaggerq
 import numpy as np
 import re
 import sys
-sys.path.append('/home/ydamour/tmpdir/SimpleWick')
+# Replace by the correct path
+sys.path.append('#PATH_TO_SimpleWick')
 import copy
 import wick as w
 from IPython.display import display, Latex
